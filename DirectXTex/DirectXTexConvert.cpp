@@ -1,7 +1,7 @@
 //-------------------------------------------------------------------------------------
 // DirectXTexConvert.cpp
-//  
-// DirectX Texture Library - Image pixel format conversion 
+//
+// DirectX Texture Library - Image pixel format conversion
 //
 // Copyright (c) Microsoft Corporation. All rights reserved.
 // Licensed under the MIT License.
